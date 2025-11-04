@@ -9,6 +9,8 @@ Prompt này được thiết kế để chatbot hỗ trợ tính điểm môn h�
 
 - Có thể bổ sung thêm ngữ cảnh hoặc quy tắc tính điểm riêng của từng trường.
 
+- Khuyến khích xem ở Code view
+
 ### Table Of Contents
 - [Tính điểm thành phần môn học](#DiemMonHoc)
 - [Tính điểm trong 1 học kỳ](#DiemHocKy)
@@ -26,11 +28,12 @@ Tôi muốn đạt điểm tổng kết cuối cùng là $\geq$ [8.5]
 
 2. Cấu trúc điểm của môn:
 
-- [**Giữa kỳ**]: [**20%**]
+- [**Giữa kỳ**]: [**20 %**]
     
-- [**Cuối kỳ**]: [**50%**]
+- [**Cuối kỳ**]: [**50 %**]
     
-- [**Thực hành**]: [**30%**]
+- [**Thực hành**]: [**30 %**]
+
  <!-- Có thể thêm/ bớt tùy theo cột điểm của môn học--> 
 
 3. Điểm đã biết / Giả định:
